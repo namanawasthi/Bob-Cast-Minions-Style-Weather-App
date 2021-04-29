@@ -2,6 +2,8 @@
 
 Minions theme based flutter app for getting weather details of any city.
 
+Play Store Link:- https://play.google.com/store/apps/details?id=com.cast.kingbobstudios
+
 <img src="https://user-images.githubusercontent.com/32276228/116597410-38749700-a943-11eb-9061-74c4cc2f9885.jpg" alt="image 1" width="250" height="500">
 
 Search for the city:-</br>
